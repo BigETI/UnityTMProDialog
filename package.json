@@ -1,0 +1,21 @@
+{
+    "name": "com.bigeti.dialog.textmeshpro",
+    "version": "1.0.0",
+    "displayName": "TMPro dialog system extension for Unity dialog system",
+    "description": "This package is an extension to the Unity dialog system package at https://github.com/BigETI/UnityDialog.\nIt contains scripts to use Text Mesh Pro UGUI components in dialogs.",
+    "dependencies": {
+        "https://github.com/BigETI/UnityDialog.git": "1.0.0"
+    },
+    "keywords": [
+        "dialog",
+        "tmpro",
+        "textmeshpro",
+        "dialogtmpro",
+        "dialogtextmeshpro"
+    ],
+    "author": {
+        "name": "Ethem Kurt",
+        "email": "bigeti.ethem@gmail.com",
+        "url": "https://bigeti.de/"
+    }
+}
